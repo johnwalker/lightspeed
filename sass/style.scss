@@ -16,7 +16,7 @@ a:hover {
 }
 main {
 	margin: auto;
-	max-width: 38rem;
+	max-width: 50rem;
 	padding: 0.8rem;
 }
 pre {
@@ -43,7 +43,7 @@ img {
 	justify-content: space-between;
 	margin-bottom: 10px;
 }
-@media (max-width: 38rem) {
+@media (max-width: 50rem) {
 	.homepage-list li a {
 		width: 100%;
 	}
